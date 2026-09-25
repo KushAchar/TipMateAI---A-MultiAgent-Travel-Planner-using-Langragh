@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TipMateAI---A-MultiAgent-Travel-Planner-using-Langragh
 
 ## How to run?
@@ -15,3 +16,6 @@
  3.Install requirements
  ```bash
  pip install -r requirements.txt
+=======
+# TipMateAI-A-MultiAgent-Travel-Planner-using-Langragh
+>>>>>>> aba27fb641a423f2925a4224292e83d27813bbf3
